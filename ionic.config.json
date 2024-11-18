@@ -1,0 +1,7 @@
+{
+  "name": "NewsTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
